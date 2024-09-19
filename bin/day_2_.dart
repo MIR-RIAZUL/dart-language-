@@ -6,5 +6,5 @@ void main()
 
   print("i love you");
 
-  ooiiuuow
+  ooiiuuow;
 }
